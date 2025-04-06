@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-community
+ollama
+pdfplumber
+python-dotenv # Optional, but good for managing secrets like email passwords
