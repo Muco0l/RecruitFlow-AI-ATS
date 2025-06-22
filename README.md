@@ -53,5 +53,5 @@ A full-stack, agentic AI system designed to automate the end-to-end recruitment 
 Streamlit UI ──▶ LangChain Agent ──▶ Llama-2 (Ollama) ──▶ PostgreSQL
                        │                     │
            Resume Parser / JD Extractor     Matching Engine
-
+```
 ![RecruitFlow-AI-ATS]{img.png}
