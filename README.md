@@ -54,4 +54,4 @@ Streamlit UI ──▶ LangChain Agent ──▶ Llama-2 (Ollama) ──▶ Post
                        │                     │
            Resume Parser / JD Extractor     Matching Engine
 ```
-![RecruitFlow-AI-ATS]{img.png}
+![RecruitFlow](img.png)
